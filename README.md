@@ -9,7 +9,7 @@ O objetivo é demonstrar na prática os desafios, limitações e oportunidades d
 LINK GOOGLE DRIVE ARQUIVOS FL
 https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
 
-## Requisitos mÍNIMOS ##
+## Requisitos Necessários ##
 0. LINUX UBUNTU (ATUALIZADO)
 1. Clone o repositório do GOOGLE DRIVE
 https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
