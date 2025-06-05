@@ -2,6 +2,12 @@ Summary in English
 This project replicates a federated learning pipeline for intrusion detection (IDS), comparing the performance of traditional centralized training with a manual federated approach, using the classic KDD Cup 99 dataset.
 The goal is to practically demonstrate the challenges, limitations, and opportunities of federated learning (FL) in real-world security scenarios, providing a foundation for future research and improvements.
 
+** ALL FILES USED IN THE PROJECT CAN BE DOWNLOADED FROM THE ADDRESS BELOW ON GOOGLE DRIVE. THEY CAN ALSO BE REUSED AND PUBLISHED, BUT FIRST SEND AN EMAIL TO denisnogueira@discente.ufg.br
+
+https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
+
+
+
 The pipeline features:
 
 Detailed data preprocessing (category conversion, normalization, handling missing data).
@@ -32,4 +38,7 @@ Avaliação com múltiplas métricas: acurácia, precisão, recall, F1-score, ma
 Discussão crítica sobre os resultados, justificando limitações e sugerindo melhorias, como aumento de épocas, rodadas federadas, balanceamento de dados e uso de estratégias avançadas (FedProx, normalização, etc.).
 
 O código está totalmente comentado, pronto para replicação e adaptações, servindo como referência para professores, alunos e pesquisadores interessados em segurança, IA distribuída e ciência de dados aplicada.
+
+
+
 
