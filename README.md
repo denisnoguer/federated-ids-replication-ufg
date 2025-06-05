@@ -1,4 +1,4 @@
-## TUTORIAL COMPLETO DO ESTUDO UTILIZADO ### 
+## TUTORIAL COMPLETO APRENDIZADO FEDERADO IDS ### 
 
 Português Brasil
 Este projeto realiza a replicação do pipeline de aprendizado federado aplicado à detecção de intrusos (IDS), comparando o desempenho entre o treinamento centralizado tradicional e a abordagem federada manual, utilizando o dataset clássico KDD Cup 99.
