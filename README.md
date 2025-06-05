@@ -27,6 +27,11 @@ Português Brasil
 Este projeto realiza a replicação do pipeline de aprendizado federado aplicado à detecção de intrusos (IDS), comparando o desempenho entre o treinamento centralizado tradicional e a abordagem federada manual, utilizando o dataset clássico KDD Cup 99.
 O objetivo é demonstrar na prática os desafios, limitações e oportunidades do aprendizado federado (FL) em cenários reais de segurança, além de servir como base para futuras pesquisas e aprimoramentos.
 
+** TODOS OS ARQUIVOS USADOS NESTE PROJETO ESTAO DISPONIVES NO GOOGLE DRIVE NO LINK ABAIXO, PODEM SER USADOS LIVREMENTE PARA APRENDIZADO, mas antes mande um e-mail para email: denisnogueira@discente.ufg.br
+
+LINK GOOGLE DRIVE ARQUIVOS FL
+https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
+
 O pipeline inclui:
 
 Pré-processamento detalhado dos dados (conversão de categorias, padronização, tratamento de dados ausentes).
