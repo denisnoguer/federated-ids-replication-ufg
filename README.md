@@ -70,23 +70,7 @@ The goal is to demonstrate, in practice, the challenges, limitations, and opport
 - Matplotlib
 - (all complete list is on requirements.txt)
 
-LISTAGEM DA METODOLOGIA TÉCNICA UTILIZADA PARA APLICAÇÃO DE FL
-
-1.	Preparação do ambiente: • Instalação Docker / Docker Compose
-• Criação de ambiente Python e instalação de libs (Flower, TensorFlow/PyTorch, scikit-learn)
-2.	Pré-processamento de dados - • Download e particionamento KDD-99, MotionSense etc.
-• Encoding e normalização
-• Gerar partições para FL
-3.	 Modelo centralizado- • Implementar e treinar MLP local
-• Validar acurácia de referência
-4.	 Orquestração FL básica- • Criar server.py e client.py no Flower
-• Ajustar docker-compose.yml para 20 clientes
-5.	 Experimentos FL (IDS) - • Rodar FL variando N, E e B
-• Coleta de logs e métricas de acurácia
-6.	 Extensão DDoS -• Descompactar DDos.zip
-• Configurar ambiente e dados DDoS
-• Executar e coletar resultados
-
+## TUTORIAL OF AMBIENTATIONS
 
 1- TUTORIAL DE INSTALAÇÃO DAS DEPENDÊNCIAS
 	(Obs: Foram utilizadas as versões mais atuais do Linux Ubuntu)
@@ -101,16 +85,11 @@ python3 -m venv venv
 source venv/bin/activate
 
 
-Passo B – Instalar as dependências manualmente
-bash
-# Ainda com o (venv) ativo em /0/IDS:
-pip install --upgrade pip
-
-# Instalar as bibliotecas essenciais:
+# Essentinal Library :
 pip install tensorflow flwr pandas numpy scikit-learn matplotlib
 
 
-##Instalação da Dependências e atualização das bibliotecas.
+## Total Dependeces.
 
  
 2- Dependências que devem ser Instaladas
@@ -183,14 +162,10 @@ Centralizado	99,16
 Federado (FedAvg, melhor configuração)	99,40 (+0,24 pp)
 Federado (FedAvg, pior configuração)	96,62 (−2,54 pp)
 
-9.1 -  Gráfico comparativo
+9.1 -  Graphic Generation CODE
 
- Mesmo que a acurácia federada manual (0.0988) tenha ficado baixa, você agora tem:
-●	Pipeline federado funcional 
+![image](https://github.com/user-attachments/assets/39c5d161-5f21-4976-9b41-a440dde268df)
 
-●	Gráfico comparativo 
-
-AO CONCLUIR O CODIGO DEVE GERAR O GRÁFICO OCOMPARATIVO
 
  
 _______________________________________
