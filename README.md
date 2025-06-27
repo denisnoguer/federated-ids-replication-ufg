@@ -13,7 +13,8 @@
 ![Segurança](https://img.shields.io/badge/Segurança-Foco%20em%20Ataques%20DDoS-red)
 ![NSL-KDD](https://img.shields.io/badge/Dataset-NSL--KDD-blue?style=flat)
 
-
+##About
+FL Federated Learning Applied to intrusion detection (IDS) on the KDD Cup 99 dataset, including Python code and practical results, including time of learning and memory. UFG - Universidade Federal de Goias
 
 
 ## TUTORIAL COMPLETO APRENDIZADO FEDERADO IDS ### 
