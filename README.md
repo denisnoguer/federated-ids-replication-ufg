@@ -361,7 +361,8 @@ plt.text(i, v + 0.03, f"{v:.4f}", ha="center", fontsize=12)
 plt.tight_layout()
 plt.savefig("comparacao_centralizado_federado_final.png", dpi=150)
 plt.show()
-
+##
+````
 ---
 </details>
 
