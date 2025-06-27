@@ -216,3 +216,28 @@ plt.show()
 ```
 ## 
 
+## 📚 Citing This Work
+
+If you use this repository or base your work on this implementation, please consider citing it as:
+
+```bibtex
+@article{Nascimento Denis - FL_IDS,
+    title   = "Federated Learning Applied to Intrusion Detection using the KDD Cup 99 Dataset",
+    professor    = "Antonio Oliveira-Jr",
+    author  = "Denis Nogueira do Nascimento",
+    journal = "GitHub",
+    year    = "2025",
+    url     = "https://github.com/denisnoguer/federated-ids-replication-ufg"
+}
+
+```
+##
+This repository and its contents were created by Denis Nogueira do Nascimento as part of his Master's research in Computer Science at the Federal University of Goiás (UFG).
+
+You can find Denis on mail:
+
+💼 LinkedIn
+
+📧 Email:  <denisnoguer@gmail.com>; 
+
+🧰 GitHub
