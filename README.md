@@ -53,34 +53,22 @@ The following are the tools and technologies used throughout this project. They 
   The base operating system used to run and test the environment — recommended: latest LTS version.
 
 
+## Organization ### 
+This repository is organized into three main sections: program requirements, download and initialization, comparations and graphics.
 
-## TUTORIAL COMPLETO APRENDIZADO FEDERADO IDS ### 
+## Objetivo ### 
 
-Português Brasil
-Este projeto realiza a replicação do pipeline de aprendizado federado aplicado à detecção de intrusos (IDS), comparando o desempenho entre o treinamento centralizado tradicional e a abordagem federada manual, utilizando o dataset clássico KDD Cup 99.
-O objetivo é demonstrar na prática os desafios, limitações e oportunidades do aprendizado federado (FL) em cenários reais de segurança, além de servir como base para futuras pesquisas e aprimoramentos.
+This project replicates a federated learning pipeline for Intrusion Detection Systems (IDS), comparing the performance of traditional centralized training with a manual federated approach using the classic KDD Cup 99 dataset.  
+The goal is to demonstrate, in practice, the challenges, limitations, and opportunities of Federated Learning (FL) in real-world security scenarios, while serving as a foundation for future research and improvements.
 
-** TODOS OS ARQUIVOS USADOS NESTE PROJETO ESTAO DISPONIVES NO GOOGLE DRIVE NO LINK ABAIXO, PODEM SER USADOS LIVREMENTE PARA APRENDIZADO, mas antes mande um e-mail para email: denisnogueira@discente.ufg.br
-
-LINK GOOGLE DRIVE ARQUIVOS FL
-https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
-
-## Requisitos Necessários ##
-0. LINUX UBUNTU (ATUALIZADO)
-1. Clone o repositório do GOOGLE DRIVE
-https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
-2. Instale as dependências (veja requirements.txt)
-3. Execute o script principal (MODIFIQUE O CÓDIGO:
-4. Os resultados e gráficos serão salvos na mesma pasta.
-
-## Requisitos
+## Requeriments
 - Python 3.9+
 - FLOWER
 - TensorFlow
 - Pandas
 - Scikit-learn
 - Matplotlib
-- (e outras listadas em requirements.txt)
+- (all complete list is on requirements.txt)
 
 LISTAGEM DA METODOLOGIA TÉCNICA UTILIZADA PARA APLICAÇÃO DE FL
 
@@ -217,18 +205,6 @@ plt.show()
 O arquivo de comparativo que possui as fotos e dados demonstrativo neste tutorial pode ser acessadas no endereço do google drive abaixo:
 
 https://drive.google.com/file/d/175wU3g_1heesrj4pg6VRAvoO-BOopjAM/view?usp=drive_link
-
-## Federated ids Replication UFG ##
-## "@Professor {Antonio Oliveira Jr,
-    title = "Complete Federated ids Replication",
-    author = "Nogueira, Denis Nascimento",
-    journal = "GitHub",
-    year = "2025",
-    url = "https://github.com/denisnoguer/federated-ids-replication-ufg",
-}
-"##
-
-
 
 =-=-=-=--=-==-=-=-=-==-=--==-=-=
 TUTORIAL IN ENGLISH
@@ -532,5 +508,17 @@ Reference:
 
 
 
-Goiânia, 04 de junho de 2024
+Goiânia, 2 JULY 2025
 Autor – DENIS NOGUEIRA DO NASCIMENTO – denisnoguer@gmail.com
+
+
+
+## Federated ids Replication UFG ##
+## "@Professor {Antonio Oliveira Jr,
+    title = "Complete Federated ids Replication",
+    author = "Nogueira, Denis Nascimento",
+    journal = "GitHub",
+    year = "2025",
+    url = "https://github.com/denisnoguer/federated-ids-replication-ufg",
+}
+"##
