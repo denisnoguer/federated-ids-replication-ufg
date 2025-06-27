@@ -6,6 +6,16 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=matplotlib&logoColor=white&style=flat)
 
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Projeto Acadêmico](https://img.shields.io/badge/UFG-Mestrado%20em%20Ciência%20da%20Computação-blueviolet?style=flat&logo=academia)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Discussões](https://img.shields.io/badge/Discussões-GitHub-blue?logo=github)
+![Segurança](https://img.shields.io/badge/Segurança-Foco%20em%20Ataques%20DDoS-red)
+![NSL-KDD](https://img.shields.io/badge/Dataset-NSL--KDD-blue?style=flat)
+
+
+
+
 ## TUTORIAL COMPLETO APRENDIZADO FEDERADO IDS ### 
 
 Português Brasil
