@@ -186,9 +186,9 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
 
 | Scenario                                | Accuracy (%)     |
 |----------------------------------------|------------------|
-| Centralized                             | 99.16            |
-| Federated (FedAvg, best configuration) | 99.40 (+0.24 pp) |
-| Federated (FedAvg, worst configuration)| 96.62 (−2.54 pp) |
+| Centralized                            | 0.8235            |
+| Federated (FedAvg, best configuration) | 0.3561 (+0.24 pp) |
+| Federated (FedAvg, worst configuration)| 0.3275 (−2.54 pp) |
 
 
 ## Example of output graphic
