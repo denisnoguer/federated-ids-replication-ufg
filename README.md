@@ -120,7 +120,12 @@ https://drive.google.com/file/d/175wU3g_1heesrj4pg6VRAvoO-BOopjAM/view?usp=drive
 
 REQUIRED COMMANDS IN LINUX
 
-  -- pip install tensorflow flwr pandas numpy scikit-learn matplotlib  
+  -- pip install tensorflow flwr pandas numpy scikit-learn matplotlib   
+
+  
+## GRAPHICAL MODEL
+![image](https://github.com/user-attachments/assets/9c165d67-623f-4453-8f51-e8ccd767d24f)
+
 
 
 ##
@@ -143,9 +148,6 @@ https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
 - 📈 **Matplotlib** – Graph and result visualization
 
 
-
-## GRAPHICAL MODEL
-![image](https://github.com/user-attachments/assets/9c165d67-623f-4453-8f51-e8ccd767d24f)
 
 
 
