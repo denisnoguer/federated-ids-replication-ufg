@@ -99,39 +99,28 @@ https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
 4. The results and graphs will be saved in the same folder.
 
 
+## ⚙️ Total Dependencies
 
-## Total Dependeces.
+- 🧠 **TensorFlow** – Used to train the MLP model  
+- 🤝 **Flower (flwr)** – Orchestration of federated learning rounds  
+- 📊 **Pandas, NumPy, Scikit-learn** – Data loading, processing and handling  
+- 📈 **Matplotlib** – Graph and result visualization
 
+---
 
-●	TensorFlow (treino do MLP)
+## 🐳 Docker Configuration
 
-●	Flower (flwr) (ORQUESTRATIONS)
+- 📁 **Project directory used**:  
+  `/0/IDS`
 
-●	pandas, numpy, scikit-learn (DATA READ)
+---
 
-●	matplotlib (GRAPHICS)
+## 🧪 Activate Virtual Environment for FL Execution
 
-## DOCKER CONFIGURATIONS
+- ⚡ Activate the virtual environment:
+  ```bash
+  source venv/bin/activate
 
-THE DIRETORIES USED IS> 
-
-/0/IDS
-
-
-ACTIVE VIRTUAL MODE IN FL
-source venv/bin/activate
-
-python fl_manual_avancado.py
-(NAME OF FILE IS  "fl_manual_avancado.py")
-
-
-## Docker - BILD THE REPLICAL CONTAINERS  
-## 🖥️ Local Execution Path
-
-This step must be executed **locally** on your machine, within the selected project directory.
-
-In this project, the working directory used was:  
-`/0/IDS`
 
 
 ## 5. 🛡️ Attack Categories in the Dataset
