@@ -143,6 +143,53 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
   The attacker probes and scans networks to gather information.  
   **Examples**: `ipsweep`, `nmap`, `portsweep`, `satan`
 
+
+##📊 Step 3- Comparations and graphics about the results
+
+
+## GRAPHIC CODE 1 EXAMPLE
+![image](https://github.com/user-attachments/assets/ad317280-899d-48eb-a608-c28905bb9ed1)
+
+
+
+## 📊 Step 9.2 – Accuracy Results from the Experiment
+
+| Scenario                                | Accuracy (%)     |
+|----------------------------------------|------------------|
+| Centralized                             | 99.16            |
+| Federated (FedAvg, best configuration) | 99.40 (+0.24 pp) |
+| Federated (FedAvg, worst configuration)| 96.62 (−2.54 pp) |
+
+---
+
+## 📊 Scripts and codes.
+
+
+## 📊 Optional: Accuracy Comparison Chart
+
+You may optionally generate and use a chart to compare centralized vs. federated learning results.
+
+---
+
+<details>
+<summary><strong>📌 1. Save Chart as PNG (Python Code)</strong></summary>
+
+Add the following lines at the end of your script to save the chart as an image:
+
+```python
+plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
+plt.show()
+he chart as an image:
+
+```python
+plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
+plt.show()
+
+```
+## 
+
+
+
 ## 🧠 Model of Script: Manual Federated Learning (Advanced)
 
 <details>
@@ -167,43 +214,3 @@ df = pd.read_csv("dataset/__processed_kdd.csv", low_memory=False)
 </details>
 ```
 
-## 3- Comparations and graphics about the results
-
-
-## GRAPHIC CODE 1 EXAMPLE
-![image](https://github.com/user-attachments/assets/ad317280-899d-48eb-a608-c28905bb9ed1)
-
-
-
-## 📊 Step 9.2 – Accuracy Results from the Experiment
-
-| Scenario                                | Accuracy (%)     |
-|----------------------------------------|------------------|
-| Centralized                             | 99.16            |
-| Federated (FedAvg, best configuration) | 99.40 (+0.24 pp) |
-| Federated (FedAvg, worst configuration)| 96.62 (−2.54 pp) |
-
----
-
-## 📊 Optional: Accuracy Comparison Chart
-
-You may optionally generate and use a chart to compare centralized vs. federated learning results.
-
----
-
-<details>
-<summary><strong>📌 1. Save Chart as PNG (Python Code)</strong></summary>
-
-Add the following lines at the end of your script to save the chart as an image:
-
-```python
-plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
-plt.show()
-he chart as an image:
-
-```python
-plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
-plt.show()
-
-```
-## 
