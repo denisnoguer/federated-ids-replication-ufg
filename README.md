@@ -16,6 +16,11 @@
 ##About
 FL Federated Learning Applied to intrusion detection (IDS) on the KDD Cup 99 dataset, including Python code and practical results, including time of learning and memory. UFG - Universidade Federal de Goias
 
+## ABOUT THIS DOCUMENTATION ### 
+FL Federated Learning Applied to Intrusion Detection (IDS) on the KDD Cup 99 dataset, 
+Including Python code and practical results, including time of learning and memory. 
+UFG - Universidade Federal de Goias.
+
 
 ## TUTORIAL COMPLETO APRENDIZADO FEDERADO IDS ### 
 
