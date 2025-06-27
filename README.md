@@ -52,16 +52,23 @@ The following are the tools and technologies used throughout this project. They 
 - 🐧 **[Linux – Ubuntu](https://ubuntu.com/)**  
   The base operating system used to run and test the environment — recommended: latest LTS version.
 
-
-## Organization ### 
-This repository is organized into three main sections: program requirements, download and initialization, comparations and graphics.
-
 ## Focus Objective ### 
 
 This project replicates a federated learning pipeline for Intrusion Detection Systems (IDS), comparing the performance of traditional centralized training with a manual federated approach using the classic KDD Cup 99 dataset.  
 The goal is to demonstrate, in practice, the challenges, limitations, and opportunities of Federated Learning (FL) in real-world security scenarios, while serving as a foundation for future research and improvements.
 
-## Requeriments
+
+## Organization ### 
+This repository is organized into three main sections:   
+1- Program and requirements  
+2- Download, instalation and initialization of dependences   
+3- Comparations and graphics about the results  
+
+
+## THE Requeriments  
+
+1- Program and requirements 
+
 - Python 3.9+
 - FLOWER
 - TensorFlow
@@ -72,15 +79,13 @@ The goal is to demonstrate, in practice, the challenges, limitations, and opport
 
 ## TUTORIAL OF AMBIENTATIONS
 
-1- TUTORIAL DE INSTALAÇÃO DAS DEPENDÊNCIAS
-	(Obs: Foram utilizadas as versões mais atuais do Linux Ubuntu)
+1- TUTORIAL
 
-Instalação das dependências
+DEPENDENCES
 Python (VIRTUAL)
-Passo 2 – Criar e ativar o ambiente virtual Python
-Dentro de /0/IDS, execute:
+Create the folders de /0/IDS,
 bash
-CopiarEditar
+edit
 python3 -m venv venv
 source venv/bin/activate
 
@@ -95,35 +100,23 @@ pip install tensorflow flwr pandas numpy scikit-learn matplotlib
 2- Dependências que devem ser Instaladas
 ●	TensorFlow (treino do MLP)
 
-●	Flower (flwr) (orquestração federada)
+●	Flower (flwr) (ORQUESTRATIONS)
 
-●	pandas, numpy, scikit-learn (pré-processamento)
+●	pandas, numpy, scikit-learn (DATA READ)
 
-●	matplotlib (gráficos)
+●	matplotlib (GRAPHICS)
 
-3- LISTAGEM DE FLAGS DISPONIVEIS disponíveis (como --epochs, --batch-size etc.). 
-Treino centralizado (LOW)
-Configurar o Federeted Learning
-Coletar resultados
- 
-4-  ETAPA - CONFIGURAÇÃO DO DOCKER
-Serviço server – garanta que use só 25 rodadas:
-Serviço client – configure 3 réplicas, 2 épocas locais e 1 rodada:
+## DOCKER CONFIGURATIONS
 
-Listagem de Comandos importantes para ativação do ambiente Docker
 NAVEGUE ATE /0/IDS
 ATIVE O MODO VIRTUAL
 source venv/bin/activate
 
-Comando para Executar o  APRENDIZADO FEDERADO em ambiente virtualizado em Linux com Python.
-Obs: Comando deve ser executado no diretório raiz do projeto.
-
 python fl_manual_avancado.py
-(NOME DO ARQUIVO ESCOLHIDO)
+(NAME OF FILE IS  "fl_manual_avancado.py")
 
-5. Lista de nomes dos tipos de ataques utilizados:
-Os nomes que aparecem (ex: back, buffer_overflow, ipsweep, etc.) são tipos de ataques ou atividades de rede detectadas/classificadas no dataset.
- Ao lado deles, aparecem siglas como dos, u2r, r2l, probe, que são categorias de ataques.  Tipos de ataques usados:
+5. LIST OF ALL ATTACKS :
+
 ●	dos: Denial of Service (negação de serviço). Ex: smurf, neptune, teardrop, pod, land, back
 
 ●	u2r: User to Root. Ataques onde um usuário comum tenta obter acesso de root/admin. Ex: buffer_overflow, loadmodule, perl, rootkit
