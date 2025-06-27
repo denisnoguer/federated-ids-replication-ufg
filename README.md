@@ -1,3 +1,11 @@
+# 👋 Welcome!
+
+Thank you for visiting this repository!  
+Here you'll find a complete and practical implementation of **Federated Learning applied to Intrusion Detection Systems (IDS)** using the **KDD Cup 99 dataset**, developed as part of a Master's research project at **UFG – Federal University of Goiás**.
+
+Feel free to explore, test, and contribute! 🚀
+
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white&style=flat)
 ![Flower](https://img.shields.io/badge/Flower-Federated%20Learning-orange?style=flat)
