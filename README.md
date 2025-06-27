@@ -162,6 +162,25 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
 
 ---
 
+
+---
+## 📚 Citing This Work
+
+If you use this repository or base your work on this implementation, please consider citing it as:
+
+```bibtex
+@article{Nascimento2025_FL_IDS,
+  title     = "Federated Learning Applied to Intrusion Detection using the KDD Cup 99 Dataset",
+  author    = "Denis Nogueira do Nascimento",
+  professor = "Antonio Oliveira Jr.",
+  journal   = "GitHub",
+  year      = "2025",
+  url       = "https://github.com/denisnoguer/federated-ids-replication-ufg"
+}
+````
+---
+
+
 ## 📊 Models and Scripts & Python Codes
 
 
@@ -192,57 +211,3 @@ df = pd.read_csv("dataset/__processed_kdd.csv", low_memory=False)
 ```
 
 
-
-## 📊 Optional: Accuracy Comparison Chart
-
-You may optionally generate and use a chart to compare centralized vs. federated learning results.
-
----
-
-<details>
-<summary><strong>📌 1. Save Chart as PNG (Python Code)</strong></summary>
-
-Add the following lines at the end of your script to save the chart as an image:
-
-```python
-plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
-plt.show()
-he chart as an image:
-
-```python
-plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
-plt.show()
-
-```
-## 
-
-## 📚 Citing This Work
-
-If you use this repository or base your work on this implementation, please consider citing it as:
-
-```bibtex
-@article{Nascimento Denis - FL_IDS,
-    title   = "Federated Learning Applied to Intrusion Detection using the KDD Cup 99 Dataset",
-    professor    = "Antonio Oliveira-Jr",
-    author  = "Denis Nogueira do Nascimento",
-    journal = "GitHub",
-    year    = "2025",
-    url     = "https://github.com/denisnoguer/federated-ids-replication-ufg"
-}
-
-```
-##
-## 📚 Citing This Work
-
-If you use this repository or base your work on this implementation, please consider citing it as:
-
-```bibtex
-@article{Nascimento2025_FL_IDS,
-  title     = "Federated Learning Applied to Intrusion Detection using the KDD Cup 99 Dataset",
-  author    = "Denis Nogueira do Nascimento",
-  professor = "Antonio Oliveira Jr.",
-  journal   = "GitHub",
-  year      = "2025",
-  url       = "https://github.com/denisnoguer/federated-ids-replication-ufg"
-}
-````
