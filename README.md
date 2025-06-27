@@ -109,7 +109,7 @@ pip install tensorflow flwr pandas numpy scikit-learn matplotlib
 ## DOCKER CONFIGURATIONS
 
 NAVEGUE ATE /0/IDS
-ATIVE O MODO VIRTUAL
+ACTIVE VIRTUAL MODE IN FL
 source venv/bin/activate
 
 python fl_manual_avancado.py
@@ -125,35 +125,37 @@ python fl_manual_avancado.py
 
 ●	probe: Atividades de sondagem, escaneamento de portas, etc. Ex: ipsweep, nmap, portsweep, satan
 
-Visão tradicional & visionária
-●	Tradicional: O uso desses datasets é clássico em segurança cibernética — profissionais do mundo todo usam há décadas como referência, ajudando a construir a base de IDS modernos.
-MODELO GRÁFICO DO CENÁRIO DE APRENDIZADO FEDERADO APLICADO EM DOIS CENÁRIOS, 1 TRADICIONAL CENTRALIZADO E O SEGUNDO O APRENDIZADO FEDERADO.
- 
+
+## BILD THE REPLICAL CONTAINERS  
+## 🖥️ Local Execution Path
+
+This step must be executed **locally** on your machine, within the selected project directory.
+
+In this project, the working directory used was:  
+`/0/IDS`
+
+---
+
+## 🚨 Step 8 – DDoS Application Test
+
+**Test accuracy:** `0.958790123462677`
 
 
-6. Construir e subir os containers réplica de 3 clientes
- Este próximo passo deve ser feito diretamente em local da máquina do diretório escolhido
+---
 
-Neste projeto foi usado /0/IDS
+## 📊 Step 9 – Accuracy Results from the Experiment
+
+| Scenario                                | Accuracy (%)     |
+|----------------------------------------|------------------|
+| Centralized                             | 99.16            |
+| Federated (FedAvg, best configuration) | 99.40 (+0.24 pp) |
+| Federated (FedAvg, worst configuration)| 96.62 (−2.54 pp) |
+
+---
+
+## 🧩 9.1 – Code for Graphic Generation
 
 
-8- APLICAÇÃO DDOS 
- 
-Test accuracy: 0.958790123462677
-0
-1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 29ms/step
-[[0.9807248 0.0192752]]
-1
-1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 17ms/step
-[[0.00809862  VS  0.99190134]]
-
--=--=-=-=-=-=-=-=-=-=-==--==--=-=-==-=-=-=-=-=-=-=-
-
-9. Valores dos dados e Acurácia Executados no experimento
-Cenário	Acurácia (%)
-Centralizado	99,16
-Federado (FedAvg, melhor configuração)	99,40 (+0,24 pp)
-Federado (FedAvg, pior configuração)	96,62 (−2,54 pp)
 
 9.1 -  Graphic Generation CODE
 
