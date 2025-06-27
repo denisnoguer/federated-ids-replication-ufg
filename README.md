@@ -155,22 +155,21 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
 
 ---
 
-## 🧩 9.1 – Code for Graphic Generation
-## 📊 Optional: Save Accuracy Comparison Chart
+## 📊 Optional: Accuracy Comparison Chart
 
-You can optionally save the comparison graph (Centralized vs Federated) as an image to include in reports or presentations.
-## 📊 Optional: Save Accuracy Comparison Chart
-
-You can optionally save charts and use additional visual resources to enrich your reports and analysis.
+You may optionally generate and use a chart to compare centralized vs. federated learning results.
 
 ---
 
-### 🧩 1. Code Snippet – Save Chart as PNG
-
 <details>
-<summary><strong>Click to view code</strong></summary>
+<summary><strong>📌 1. Save Chart as PNG (Python Code)</strong></summary>
 
-Add this code at the end of your script to export the chart as an image:
+Add the following lines at the end of your script to save the chart as an image:
+
+```python
+plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
+plt.show()
+he chart as an image:
 
 ```python
 plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
