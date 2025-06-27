@@ -164,17 +164,17 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
 
 
 ---
-## 📚 Citing This Work
+## 📚 Thanks and Citing This Hard Work!
 
 If you use this repository or base your work on this implementation, please consider citing it as:
 
 ```bibtex
 @article{Nascimento2025_FL_IDS,
-  title     = "Federated Learning Applied to Intrusion Detection using the KDD Cup 99 Dataset",
-  author    = "Denis Nogueira do Nascimento",
+  title     = "Replication of Federated Learning Applied to Intrusion Detection",
   professor = "Antonio Oliveira Jr.",
+  author    = "Denis Nogueira do Nascimento",
   journal   = "GitHub",
-  year      = "2025",
+  date      = "July 2025",
   url       = "https://github.com/denisnoguer/federated-ids-replication-ufg"
 }
 ````
