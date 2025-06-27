@@ -90,14 +90,15 @@ python3 -m venv venv
 source venv/bin/activate
 
 
-# Essentinal Library :
-pip install tensorflow flwr pandas numpy scikit-learn matplotlib
+# Essentinal Library :  
+
+rEQUIRED COMMANDS IN LINUX
+-- pip install tensorflow flwr pandas numpy scikit-learn matplotlib
 
 
 ## Total Dependeces.
 
- 
-2- Dependências que devem ser Instaladas
+
 ●	TensorFlow (treino do MLP)
 
 ●	Flower (flwr) (ORQUESTRATIONS)
@@ -108,23 +109,37 @@ pip install tensorflow flwr pandas numpy scikit-learn matplotlib
 
 ## DOCKER CONFIGURATIONS
 
-NAVEGUE ATE /0/IDS
+THE DIRETORIES USED IS> 
+
+/0/IDS
+
+
 ACTIVE VIRTUAL MODE IN FL
 source venv/bin/activate
 
 python fl_manual_avancado.py
 (NAME OF FILE IS  "fl_manual_avancado.py")
 
-5. LIST OF ALL ATTACKS :
+## 5. LIST OF ALL ATTACKS :
+## 🛡️ Attack Categories in the Dataset
 
-●	dos: Denial of Service (negação de serviço). Ex: smurf, neptune, teardrop, pod, land, back
+The KDD Cup 99 dataset includes various types of attacks grouped into four main categories, each with specific behaviors and threats:
 
-●	u2r: User to Root. Ataques onde um usuário comum tenta obter acesso de root/admin. Ex: buffer_overflow, loadmodule, perl, rootkit
+- <span style="color:#FF5722;"><strong>DoS</strong></span> – Denial of Service  
+  The attacker tries to make a machine or network resource unavailable.  
+  **Examples**: `smurf`, `neptune`, `teardrop`, `pod`, `land`, `back`
 
-●	r2l: Remote to Local. Alguém de fora tenta obter acesso ao sistema como usuário local. Ex: ftp_write, guess_passwd, imap, multihop, phf, spy, warezclient, warezmaster
+- <span style="color:#9C27B0;"><strong>U2R</strong></span> – User to Root  
+  The attacker starts as a normal user and attempts to gain root-level access.  
+  **Examples**: `buffer_overflow`, `loadmodule`, `perl`, `rootkit`
 
-●	probe: Atividades de sondagem, escaneamento de portas, etc. Ex: ipsweep, nmap, portsweep, satan
+- <span style="color:#03A9F4;"><strong>R2L</strong></span> – Remote to Local  
+  An external attacker tries to gain local user access.  
+  **Examples**: `ftp_write`, `guess_passwd`, `imap`, `multihop`, `phf`, `spy`, `warezclient`, `warezmaster`
 
+- <span style="color:#4CAF50;"><strong>Probe</strong></span> – Surveillance / Scanning Activities  
+  The attacker probes and scans networks to gather information.  
+  **Examples**: `ipsweep`, `nmap`, `portsweep`, `satan`
 
 ## BILD THE REPLICAL CONTAINERS  
 ## 🖥️ Local Execution Path
