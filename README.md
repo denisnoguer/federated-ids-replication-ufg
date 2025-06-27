@@ -15,7 +15,7 @@
 ![image](https://github.com/user-attachments/assets/ed439a6e-a652-409c-8753-f5a98c52af7a)
 
 
-## ABOUT THIS DOCUMENTATION ### 
+## About this documentation ### 
 FL Federated Learning Applied to Intrusion Detection (IDS) on the KDD Cup 99 dataset, 
 Including Python code and practical results, including time of learning and memory, Docker Ambientation.   
 Research developed at **[UFG - Universidade Federal de Goiás](https://www.ufg.br/)**  
@@ -61,7 +61,7 @@ The goal is to demonstrate, in practice, the challenges, limitations, and opport
 ## Organization ### 
 This repository is organized into three main sections:   
 1- Program and requirements  
-2- Download, instalation and initialization of dependences   
+2- Instalation and initialization of Docker and FL
 3- Comparations and graphics about the results  
 
 
@@ -77,6 +77,10 @@ Google Drive
 
 For those who prefer learning in Portuguese 🇧🇷, a full written tutorial is available, including detailed explanations, setup steps, and visuals.
 
+
+"Abaixo o tutorial em PDF totalmente em português criado pelo autor"
+
+
 📄 **Title**: "Aprendizado Federado Manual Aplicado à Detecção de Intrusos – Passo a Passo"  
 🧠 **Language**: Portuguese (BR)  
 📎 **Format**: Illustrated PDF  
@@ -91,7 +95,7 @@ https://drive.google.com/file/d/175wU3g_1heesrj4pg6VRAvoO-BOopjAM/view?usp=drive
 
 
 
-## 1- THE Requeriments and Instalation
+## 1- Program and requirements 
 
 1- Program and requirements 
 
@@ -107,7 +111,11 @@ https://drive.google.com/file/d/175wU3g_1heesrj4pg6VRAvoO-BOopjAM/view?usp=drive
 
 REQUIRED COMMANDS IN LINUX
 
-  -- pip install tensorflow flwr pandas numpy scikit-learn matplotlib
+  -- pip install tensorflow flwr pandas numpy scikit-learn matplotlib  
+
+
+##
+📈 Step 2- Instalation and initialization of Docker and FL
 
 ## How to run
 0. LINUX UBUNTU (UPDATED)
@@ -138,14 +146,14 @@ Print of Installing Dependences
 
 ---
 
-## 🐳 Docker Configuration
+## A- 🐳 Docker Configuration
 
 - 📁 **Project directory used**:  
   `/0/IDS`
 
 ---
 
-## 🧪 Activate Virtual Environment for FL Execution
+## B- 🧪 Activate Virtual Environment for FL Execution
 
 - ⚡ Activate the virtual environment:
   ```bash
@@ -153,7 +161,7 @@ Print of Installing Dependences
 
 
 
-## 🛡️ Attack TYPES and Categories in the Dataset
+## C- 🛡️ Attack TYPES and Categories in the Dataset
 
 The KDD Cup 99 dataset includes various types of attacks grouped into four main categories, each with specific behaviors and threats:
 
