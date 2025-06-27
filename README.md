@@ -124,6 +124,16 @@ source venv/bin/activate
 python fl_manual_avancado.py
 (NAME OF FILE IS  "fl_manual_avancado.py")
 
+
+## Docker - BILD THE REPLICAL CONTAINERS  
+## 🖥️ Local Execution Path
+
+This step must be executed **locally** on your machine, within the selected project directory.
+
+In this project, the working directory used was:  
+`/0/IDS`
+
+
 ## 5. 🛡️ Attack Categories in the Dataset
 
 The KDD Cup 99 dataset includes various types of attacks grouped into four main categories, each with specific behaviors and threats:
@@ -145,13 +155,6 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
   **Examples**: `ipsweep`, `nmap`, `portsweep`, `satan`
 
 
-## BILD THE REPLICAL CONTAINERS  
-## 🖥️ Local Execution Path
-
-This step must be executed **locally** on your machine, within the selected project directory.
-
-In this project, the working directory used was:  
-`/0/IDS`
 
 ---
 9.1 -  Graphic Generation CODE
