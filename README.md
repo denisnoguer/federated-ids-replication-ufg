@@ -65,6 +65,13 @@ This repository is organized into three main sections:
 3- Comparations and graphics about the results  
 
 
+## Repository and files ###   
+
+
+GOOGLE DRIVE LINK
+https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
+
+
 ## THE Requeriments  
 
 1- Program and requirements 
@@ -81,7 +88,7 @@ This repository is organized into three main sections:
 
 1- TUTORIAL
 
-DEPENDENCES
+DEPENDENCES MUST BE INSTALLED
 Python (VIRTUAL)
 Create the folders de /0/IDS,
 bash
@@ -92,8 +99,18 @@ source venv/bin/activate
 
 # Essentinal Library :  
 
-rEQUIRED COMMANDS IN LINUX
--- pip install tensorflow flwr pandas numpy scikit-learn matplotlib
+REQUIRED COMMANDS IN LINUX
+
+  -- pip install tensorflow flwr pandas numpy scikit-learn matplotlib
+
+## How to run
+0. LINUX UBUNTU (UPDATED)
+1. Clone the repository from GOOGLE DRIVE
+https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
+2. Install the dependencies (see requirements.txt)
+3. Run the main script (MODIFY THE CODE:
+4. The results and graphs will be saved in the same folder.
+
 
 
 ## Total Dependeces.
@@ -198,13 +215,7 @@ TUTORIAL IN ENGLISH
 
 This repository contains the code and materials for replicating the federated learning paper applied to intrusion detection, using the KDD Cup 99 dataset. The goal is to allow other researchers and students to reproduce the experiments, analyze the results and propose improvements.
 
-## How to run
-0. LINUX UBUNTU (UPDATED)
-1. Clone the repository from GOOGLE DRIVE
-https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
-2. Install the dependencies (see requirements.txt)
-3. Run the main script (MODIFY THE CODE:
-4. The results and graphs will be saved in the same folder.
+
 
 ## Requirements
 - Python 3.9+
