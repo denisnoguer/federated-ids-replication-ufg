@@ -23,18 +23,42 @@ UFG - Universidade Federal de Goias.
 ##Tools Overview##
 The following are the tools that are covered in Complete Machine Learning Package. 
 They are popular tools that most machine learning engineers and data scientists need in one way or another and day to day.
+## 📄 About This Documentation
 
-Docker Ambient - DOCKERHUB
+**FL – Federated Learning Applied to Intrusion Detection (IDS)** on the KDD Cup 99 dataset.  
+This repository contains Python code and practical experiments, including training time and memory usage analysis.  
+Research developed at **[UFG - Universidade Federal de Goiás](https://www.ufg.br/)** as part of the Master's Degree in Computer Science.
 
-Python is a high level programming language - this is a right programming language to do ML.
+---
 
-NumPy is a scientific computing tool used for array or matrix operations.
+## 🧰 Tools Overview
 
-Pandas is a great and simple tool for analyzing and manipulating data from a variety of different sources.
+The following are the tools and technologies used throughout this project. They represent essential components for most machine learning and data science workflows.
 
-TensorFlow for deep learning: TensorFlow is a popular deep learning framework used for building models suitable for different fields such as Computer Vision and Natural Language Processing. 
+- 🐳 **[Docker](https://hub.docker.com/)**  
+  Containerization platform used to build and run reproducible environments. This project runs in a Dockerized setup.
 
-LUNIX - Ubuntu Last Version
+- 🐍 **[Python](https://github.com/python/cpython)**  
+  High-level programming language ideal for data science, AI, and automation tasks.
+
+- 📦 **[NumPy](https://github.com/numpy/numpy)**  
+  A core library for scientific computing in Python, mainly used for array and matrix operations.
+
+- 🐼 **[Pandas](https://github.com/pandas-dev/pandas)**  
+  A powerful tool for data manipulation and analysis, especially when working with structured datasets.
+
+- 🧠 **[TensorFlow](https://github.com/tensorflow/tensorflow)**  
+  An open-source deep learning framework used for building neural networks in applications such as Computer Vision and NLP.
+
+- 📊 **[Scikit-learn](https://github.com/scikit-learn/scikit-learn)**  
+  A simple and efficient tool for data mining and machine learning.
+
+- 📈 **[Matplotlib](https://github.com/matplotlib/matplotlib)**  
+  A popular visualization library used for plotting graphs, charts, and data trends.
+
+- 🐧 **[Linux – Ubuntu](https://ubuntu.com/)**  
+  The base operating system used to run and test the environment — recommended: latest LTS version.
+
 
 
 ## TUTORIAL COMPLETO APRENDIZADO FEDERADO IDS ### 
