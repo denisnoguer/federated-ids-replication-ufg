@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-yellowgreen)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-ML-brightgreen)
+![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC--BY--SA--4.0-lightgrey)
+
+
 ## TUTORIAL COMPLETO APRENDIZADO FEDERADO IDS ### 
 
 Português Brasil
