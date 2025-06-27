@@ -198,14 +198,15 @@ df = pd.read_csv("dataset/__processed_kdd.csv", low_memory=False)
 Thank you for taking the time to read this far — your interest is truly appreciated!
 
 ```bibtex
-@article{Nascimento2025_FL_IDS,
+@article{DENIS REPLICATION_FL_IDS,
   title     = "Replication of Federated Learning Applied to Intrusion Detection",
   professor = "Antonio Oliveira Jr.",
-  author    = "Denis Nogueira do Nascimento",
-  journal   = "GitHub",
+  author    = "Denis Nogueira",
   date      = "July 2025",
+  journal   = "GitHub",
   url       = "https://github.com/denisnoguer/federated-ids-replication-ufg"
   mail      = "denisnoguer@gmail.com"
+THANKS FOR YOUR TIME
 }
 ````
 ---
