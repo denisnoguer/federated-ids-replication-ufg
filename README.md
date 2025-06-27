@@ -143,13 +143,13 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
   The attacker probes and scans networks to gather information.  
   **Examples**: `ipsweep`, `nmap`, `portsweep`, `satan`
 
-## 🧠 MODEL OF Script: Manual Federated Learning (Advanced)
+## 🧠 Model of Script: Manual Federated Learning (Advanced)
 
 <details>
 <summary><strong>Click to expand the code (Python Script)</strong></summary>
 
 ```python
-# Denis - Aprendizado Federado Manual SEM ERROS de tipo/shape/dict
+# Denis - Manual Federated Learning without type/shape/dict errors
 import numpy as np
 import pandas as pd
 import tensorflow as tf
@@ -158,13 +158,13 @@ import matplotlib.pyplot as plt
 import time, os, psutil
 from sklearn.metrics import classification_report, confusion_matrix
 
-# =============== PRE-PROCESSAMENTO ===============
+# =============== PREPROCESSING ===============
 df = pd.read_csv("dataset/__processed_kdd.csv", low_memory=False)
 
-# ... (demais linhas seguem aqui normalmente)
-# Últimas linhas do script aqui
-
+# ... script continues normally
+# Final lines of the script go here
 ```
+
 ## 3- Comparations and graphics about the results
 
 
