@@ -165,16 +165,11 @@ df = pd.read_csv("dataset/__processed_kdd.csv", low_memory=False)
 # Últimas linhas do script aqui
 
 ```
-## GRAPHIC CODE 1
+## 3- Comparations and graphics about the results
+
+
+## GRAPHIC CODE 1 EXAMPLE
 ![image](https://github.com/user-attachments/assets/ad317280-899d-48eb-a608-c28905bb9ed1)
-
-
-
-## GRAPHIC CODE 2
-
-![image](https://github.com/user-attachments/assets/46f5ae1b-65e6-4005-9b72-8db70691408c)
-
-
 
 
 
@@ -208,5 +203,5 @@ he chart as an image:
 plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
 plt.show()
 
-
+```
 ## 
