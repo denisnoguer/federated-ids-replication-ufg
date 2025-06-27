@@ -128,7 +128,8 @@ https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
 
 
 ## GRAPHICAL MODEL
-![image](https://github.com/user-attachments/assets/2718b545-519b-48a8-8fa8-4ebb9d7132d4)
+![image](https://github.com/user-attachments/assets/9c165d67-623f-4453-8f51-e8ccd767d24f)
+
 
 
 Print of Installing Dependences
