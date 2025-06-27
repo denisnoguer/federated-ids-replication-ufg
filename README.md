@@ -161,31 +161,7 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
 | Federated (FedAvg, worst configuration)| 96.62 (−2.54 pp) |
 
 ---
-
-
 ---
-## 📚 Thanks and Citing This Hard Work!
-
-If you use this repository or base your work on this implementation, please consider citing it as:
-
-```bibtex
-@article{Nascimento2025_FL_IDS,
-  title     = "Replication of Federated Learning Applied to Intrusion Detection",
-  professor = "Antonio Oliveira Jr.",
-  author    = "Denis Nogueira do Nascimento",
-  journal   = "GitHub",
-  date      = "July 2025",
-  url       = "https://github.com/denisnoguer/federated-ids-replication-ufg"
-}
-````
----
-
-
-## 📊 Models and Scripts & Python Codes
-
-
-
-
 ## 🧠 Model of Script: Manual Federated Learning (Advanced)
 
 <details>
@@ -209,5 +185,29 @@ df = pd.read_csv("dataset/__processed_kdd.csv", low_memory=False)
 
 </details>
 ```
+---
+
+---
+## 📚 Thanks and Citing This Hard Work!
+
+If you use this repository or base your work on this implementation, please consider citing it as:
+
+```bibtex
+@article{Nascimento2025_FL_IDS,
+  title     = "Replication of Federated Learning Applied to Intrusion Detection",
+  professor = "Antonio Oliveira Jr.",
+  author    = "Denis Nogueira do Nascimento",
+  journal   = "GitHub",
+  date      = "July 2025",
+  url       = "https://github.com/denisnoguer/federated-ids-replication-ufg"
+}
+````
+---
+
+
+## 📊 Models and Scripts & Python Codes
+
+
+
 
 
