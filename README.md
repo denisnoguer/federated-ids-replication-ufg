@@ -80,7 +80,10 @@ For those who prefer learning in Portuguese 🇧🇷, a full written tutorial is
 📄 **Title**: "Aprendizado Federado Manual Aplicado à Detecção de Intrusos – Passo a Passo"  
 🧠 **Language**: Portuguese (BR)  
 📎 **Format**: Illustrated PDF  
-🔗 **Access**: [Download from Google Drive]([https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW](https://drive.google.com/file/d/175wU3g_1heesrj4pg6VRAvoO-BOopjAM/view?usp=drive_link)](https://drive.google.com/file/d/175wU3g_1heesrj4pg6VRAvoO-BOopjAM/view?usp=drive_link))
+🔗 **Access**: [Download from Google Drive]  
+
+
+https://drive.google.com/file/d/175wU3g_1heesrj4pg6VRAvoO-BOopjAM/view?usp=drive_link
 
 > Whether you're a beginner or deepening your research, this guide is a great companion to follow alongside the project.
 
