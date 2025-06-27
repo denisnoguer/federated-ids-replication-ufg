@@ -146,7 +146,7 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
 ## 🧠 Model of Script: Manual Federated Learning (Advanced)
 
 <details>
-<summary><strong>Click to expand the code (Python Script)</strong></summary>
+<summary><strong>▶️ Click to expand the code (Python Script)</strong></summary>
 
 ```python
 # Denis - Manual Federated Learning without type/shape/dict errors
@@ -163,11 +163,9 @@ df = pd.read_csv("dataset/__processed_kdd.csv", low_memory=False)
 
 # ... script continues normally
 # Final lines of the script go here
+
+</details>
 ```
-##    
-
-
-
 
 ## 3- Comparations and graphics about the results
 
