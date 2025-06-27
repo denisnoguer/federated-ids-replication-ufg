@@ -20,6 +20,22 @@ FL Federated Learning Applied to Intrusion Detection (IDS) on the KDD Cup 99 dat
 Including Python code and practical results, including time of learning and memory. 
 UFG - Universidade Federal de Goias.
 
+##Tools Overview##
+The following are the tools that are covered in Complete Machine Learning Package. 
+They are popular tools that most machine learning engineers and data scientists need in one way or another and day to day.
+
+Docker Ambient - DOCKERHUB
+
+Python is a high level programming language - this is a right programming language to do ML.
+
+NumPy is a scientific computing tool used for array or matrix operations.
+
+Pandas is a great and simple tool for analyzing and manipulating data from a variety of different sources.
+
+TensorFlow for deep learning: TensorFlow is a popular deep learning framework used for building models suitable for different fields such as Computer Vision and Natural Language Processing. 
+
+LUNIX - Ubuntu Last Version
+
 
 ## TUTORIAL COMPLETO APRENDIZADO FEDERADO IDS ### 
 
