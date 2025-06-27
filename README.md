@@ -154,15 +154,16 @@ In this project, the working directory used was:
 `/0/IDS`
 
 ---
+9.1 -  Graphic Generation CODE
 
-## 🚨 Step 8 – DDoS Application Test
-
-**Test accuracy:** `0.958790123462677`
+![image](https://github.com/user-attachments/assets/39c5d161-5f21-4976-9b41-a440dde268df)
 
 
----
+ 
 
-## 📊 Step 9 – Accuracy Results from the Experiment
+
+
+## 📊 Step 9.2 – Accuracy Results from the Experiment
 
 | Scenario                                | Accuracy (%)     |
 |----------------------------------------|------------------|
@@ -176,12 +177,7 @@ In this project, the working directory used was:
 
 
 
-9.1 -  Graphic Generation CODE
 
-![image](https://github.com/user-attachments/assets/39c5d161-5f21-4976-9b41-a440dde268df)
-
-
- 
 _______________________________________
 Adição opcional do Gráfico comparativo
 
