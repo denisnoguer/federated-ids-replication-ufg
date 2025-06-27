@@ -219,14 +219,14 @@ O arquivo de comparativo que possui as fotos e dados demonstrativo neste tutoria
 https://drive.google.com/file/d/175wU3g_1heesrj4pg6VRAvoO-BOopjAM/view?usp=drive_link
 
 ## Federated ids Replication UFG ##
-@article{Nyandwi2021MLPackage,
+"@article{Nyandwi2021MLPackage,
     title = "Complete Federated ids Replication",
     author = "Nogueira, Denis Nascimento",
     journal = "GitHub",
     year = "2025",
     url = "[https://nyandwi.com/machine_learning_complete] https://github.com/denisnoguer/federated-ids-replication-ufg",
 }
-
+"
 
 
 
