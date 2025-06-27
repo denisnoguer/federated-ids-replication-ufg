@@ -84,20 +84,7 @@ Google Drive
 - Matplotlib
 - (all complete list is on requirements.txt)
 
-## TUTORIAL OF AMBIENTATIONS
-
-1- TUTORIAL
-
-DEPENDENCES MUST BE INSTALLED
-Python (VIRTUAL)
-Create the folders de /0/IDS,
-bash
-edit
-python3 -m venv venv
-source venv/bin/activate
-
-
-# Essentinal Library :  
+## Essentinal Library :  
 
 REQUIRED COMMANDS IN LINUX
 
@@ -156,7 +143,7 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
 
 - <span style="color:#4CAF50;"><strong>Probe</strong></span> – Surveillance / Scanning Activities  
   The attacker probes and scans networks to gather information.  
-  **Examples**: `ipsweep`, `nmap`, `portsweep`, `satan`
+  **Examples**: `ipsweep`, `nmap`, `portsweep`, 
 
 ## BILD THE REPLICAL CONTAINERS  
 ## 🖥️ Local Execution Path
