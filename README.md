@@ -12,6 +12,7 @@
 ![Discussões](https://img.shields.io/badge/Discussões-GitHub-blue?logo=github)
 ![Segurança](https://img.shields.io/badge/Segurança-Foco%20em%20Ataques%20DDoS-red)
 ![NSL-KDD](https://img.shields.io/badge/Dataset-NSL--KDD-blue?style=flat)
+![image](https://github.com/user-attachments/assets/ed439a6e-a652-409c-8753-f5a98c52af7a)
 
 
 ## ABOUT THIS DOCUMENTATION ### 
