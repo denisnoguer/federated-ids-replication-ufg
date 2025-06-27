@@ -190,6 +190,11 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
 | Federated (FedAvg, best configuration) | 99.40 (+0.24 pp) |
 | Federated (FedAvg, worst configuration)| 96.62 (−2.54 pp) |
 
+
+## Example of output graphic
+![image](https://github.com/user-attachments/assets/71d0321b-2f07-40b2-b1ca-6dd68374a314)
+
+
 ---
 ---
 ## 🧠 Model of Script: Manual Federated Learning (Advanced)
@@ -242,7 +247,8 @@ THANKS FOR YOUR TIME
 ---
 
 
-## This repository was created by Denis Nascimento. You can find him on denisnoguer@gmail.com
+## This repository was created by Denis Nascimento.  
+You can find him on denisnoguer@gmail.com
 
 
 
