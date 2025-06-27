@@ -56,7 +56,7 @@ The following are the tools and technologies used throughout this project. They 
 ## Organization ### 
 This repository is organized into three main sections: program requirements, download and initialization, comparations and graphics.
 
-## Objetivo ### 
+## Focus Objective ### 
 
 This project replicates a federated learning pipeline for Intrusion Detection Systems (IDS), comparing the performance of traditional centralized training with a manual federated approach using the classic KDD Cup 99 dataset.  
 The goal is to demonstrate, in practice, the challenges, limitations, and opportunities of Federated Learning (FL) in real-world security scenarios, while serving as a foundation for future research and improvements.
