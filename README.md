@@ -232,6 +232,18 @@ If you use this repository or base your work on this implementation, please cons
 
 ```
 ##
+
+---
+
+## 🙏 Final Note
+
+This project was developed with care, dedication, and purpose as part of my Master’s research in Computer Science at the Federal University of Goiás (UFG).
+
+Thank you for visiting this repository and contributing to the future of collaborative, secure, and inclusive technology.
+
+— Denis Nogueira do Nascimento  
+📧 [denisnoguer@gmail.com](mailto:denisnoguer@gmail.com)
+
 This repository and its contents were created by Denis Nogueira do Nascimento as part of his Master's research in Computer Science at the Federal University of Goiás (UFG).
 
 You can find Denis on mail:
