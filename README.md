@@ -242,6 +242,8 @@ THANKS FOR YOUR TIME
 ---
 
 
+## This repository was created by Denis Nascimento. You can find him on denisnoguer@gmail.com
+
 
 
 
