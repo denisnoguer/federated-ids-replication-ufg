@@ -152,7 +152,7 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
 
 
 
-## 📊 Step 9.2 – Accuracy Results from the Experiment
+## 📊 The Results Step  – Accuracy Results from the Experiment
 
 | Scenario                                | Accuracy (%)     |
 |----------------------------------------|------------------|
@@ -162,31 +162,8 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
 
 ---
 
-## 📊 Scripts and codes.
+## 📊 Models and Scripts & Python Codes
 
-
-## 📊 Optional: Accuracy Comparison Chart
-
-You may optionally generate and use a chart to compare centralized vs. federated learning results.
-
----
-
-<details>
-<summary><strong>📌 1. Save Chart as PNG (Python Code)</strong></summary>
-
-Add the following lines at the end of your script to save the chart as an image:
-
-```python
-plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
-plt.show()
-he chart as an image:
-
-```python
-plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
-plt.show()
-
-```
-## 
 
 
 
@@ -213,4 +190,29 @@ df = pd.read_csv("dataset/__processed_kdd.csv", low_memory=False)
 
 </details>
 ```
+
+
+
+## 📊 Optional: Accuracy Comparison Chart
+
+You may optionally generate and use a chart to compare centralized vs. federated learning results.
+
+---
+
+<details>
+<summary><strong>📌 1. Save Chart as PNG (Python Code)</strong></summary>
+
+Add the following lines at the end of your script to save the chart as an image:
+
+```python
+plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
+plt.show()
+he chart as an image:
+
+```python
+plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
+plt.show()
+
+```
+## 
 
