@@ -72,7 +72,7 @@ Google Drive
   https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
 
 
-## THE Requeriments  
+## 1- THE Requeriments and Instalation
 
 1- Program and requirements 
 
@@ -123,7 +123,7 @@ https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
 
 
 
-## 5. 🛡️ Attack Categories in the Dataset
+## 🛡️ Attack TYPES and Categories in the Dataset
 
 The KDD Cup 99 dataset includes various types of attacks grouped into four main categories, each with specific behaviors and threats:
 
@@ -143,7 +143,7 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
   The attacker probes and scans networks to gather information.  
   **Examples**: `ipsweep`, `nmap`, `portsweep`, `satan`
 
-## 🧠 Script: Manual Federated Learning (Advanced)
+## 🧠 MODEL OF Script: Manual Federated Learning (Advanced)
 
 <details>
 <summary><strong>Click to expand the code (Python Script)</strong></summary>
@@ -164,7 +164,15 @@ df = pd.read_csv("dataset/__processed_kdd.csv", low_memory=False)
 # ... (demais linhas seguem aqui normalmente)
 # Últimas linhas do script aqui
 
+```
+## GRAPHIC CODE 1
+![image](https://github.com/user-attachments/assets/ad317280-899d-48eb-a608-c28905bb9ed1)
 
+
+
+## GRAPHIC CODE 2
+
+![image](https://github.com/user-attachments/assets/46f5ae1b-65e6-4005-9b72-8db70691408c)
 
 
 
@@ -199,3 +207,6 @@ he chart as an image:
 ```python
 plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
 plt.show()
+
+
+## 
