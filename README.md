@@ -125,6 +125,12 @@ https://drive.google.com/drive/folders/1EjGZGoUtxG6pSGt9K_gUqYqvQkGtO9PW
 - 📊 **Pandas, NumPy, Scikit-learn** – Data loading, processing and handling  
 - 📈 **Matplotlib** – Graph and result visualization
 
+
+
+Print of Installing Dependences
+![image](https://github.com/user-attachments/assets/77b5f3fc-4f3c-47da-b0d4-de903469b392)
+
+
 ---
 
 ## 🐳 Docker Configuration
