@@ -66,9 +66,11 @@ The goal is to demonstrate, in practice, the challenges, limitations, and opport
 
 
 ## Organization ### 
-This repository is organized into three main sections:   
-1- Program and requirements  
-2- Instalation and initialization of Docker and FL
+This repository is organized into three main sections:  
+
+
+1- Program and requirements     
+2- Instalation and initialization of Docker and FL   
 3- Comparations and graphics about the results  
 
 
