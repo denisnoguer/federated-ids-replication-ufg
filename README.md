@@ -19,6 +19,7 @@
 FL Federated Learning Applied to Intrusion Detection (IDS) on the KDD Cup 99 dataset, 
 Including Python code and practical results, including time of learning and memory. 
 UFG - Universidade Federal de Goias.
+DENIS NOGUEIRA DO NASCIMENTO -mail:  denisnoguer@gmail.com
 
 ##Tools Overview##
 The following are the tools that are covered in Complete Machine Learning Package. 
@@ -52,9 +53,6 @@ The following are the tools and technologies used throughout this project. They 
 
 - 📊 **[Scikit-learn](https://github.com/scikit-learn/scikit-learn)**  
   A simple and efficient tool for data mining and machine learning.
-
-- 📈 **[Matplotlib](https://github.com/matplotlib/matplotlib)**  
-  A popular visualization library used for plotting graphs, charts, and data trends.
 
 - 🐧 **[Linux – Ubuntu](https://ubuntu.com/)**  
   The base operating system used to run and test the environment — recommended: latest LTS version.
@@ -225,8 +223,14 @@ O arquivo de comparativo que possui as fotos e dados demonstrativo neste tutoria
 
 https://drive.google.com/file/d/175wU3g_1heesrj4pg6VRAvoO-BOopjAM/view?usp=drive_link
 
-
-
+## Federated ids Replication UFG ##
+@article{Nyandwi2021MLPackage,
+    title = "Complete Federated ids Replication",
+    author = "Nogueira, Denis Nascimento",
+    journal = "GitHub",
+    year = "2025",
+    url = "[https://nyandwi.com/machine_learning_complete] https://github.com/denisnoguer/federated-ids-replication-ufg",
+}
 
 
 
