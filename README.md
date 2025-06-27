@@ -188,9 +188,14 @@ df = pd.read_csv("dataset/__processed_kdd.csv", low_memory=False)
 
 ---
 </details>
+
+
 ## 📚 Thanks and Citing This Hard Work!
 
-If you use this repository or base your work on this implementation, please consider citing it as:
+! yes this is the end my friend !
+
+🛠️ This work is still in development, and there is much yet to be improved and explored.
+Thank you for taking the time to read this far — your interest is truly appreciated!
 
 ```bibtex
 @article{Nascimento2025_FL_IDS,
@@ -200,6 +205,7 @@ If you use this repository or base your work on this implementation, please cons
   journal   = "GitHub",
   date      = "July 2025",
   url       = "https://github.com/denisnoguer/federated-ids-replication-ufg"
+  mail      = "denisnoguer@gmail.com"
 }
 ````
 ---
