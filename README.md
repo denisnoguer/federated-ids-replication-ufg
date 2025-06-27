@@ -11,7 +11,6 @@ Feel free to explore, test, and contribute! 🚀
 ![Flower](https://img.shields.io/badge/Flower-Federated%20Learning-orange?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white&style=flat)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=matplotlib&logoColor=white&style=flat)
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
