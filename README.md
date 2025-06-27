@@ -173,6 +173,13 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
   The attacker probes and scans networks to gather information.  
   **Examples**: `ipsweep`, `nmap`, `portsweep`, `satan`
 
+## QUANTIDADE DE ATAQUES E ÉPOCAS
+
+Análise da acurácia e quantidade de épocas aplicada em cada rodada de aplicação
+![image](https://github.com/user-attachments/assets/ba9a2f24-b274-4def-ab38-a1e260821826)
+
+
+
 
 ##📊 Step 3- Comparations and graphics about the results
 
