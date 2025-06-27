@@ -19,12 +19,8 @@
 FL Federated Learning Applied to Intrusion Detection (IDS) on the KDD Cup 99 dataset, 
 Including Python code and practical results, including time of learning and memory. 
 UFG - Universidade Federal de Goias.
-DENIS NOGUEIRA DO NASCIMENTO -mail:  denisnoguer@gmail.com
-
-##Tools Overview##
-The following are the tools that are covered in Complete Machine Learning Package. 
-They are popular tools that most machine learning engineers and data scientists need in one way or another and day to day.
-## 📄 About This Documentation
+DENIS NOGUEIRA DO NASCIMENTO 
+email:  <denisnoguer@gmail.com>;
 
 **FL – Federated Learning Applied to Intrusion Detection (IDS)** on the KDD Cup 99 dataset.  
 This repository contains Python code and practical experiments, including training time and memory usage analysis.  
