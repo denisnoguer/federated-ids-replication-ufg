@@ -117,12 +117,20 @@ https://drive.google.com/file/d/175wU3g_1heesrj4pg6VRAvoO-BOopjAM/view?usp=drive
 - (all complete list is on requirements.txt)
 
 ## Essentinal Library :  
+## 📦 Required Libraries for Docker Environment and Training Epochs
 
-REQUIRED COMMANDS IN LINUX
+To properly build the Docker environment and run the training processes, the following Python libraries are required:
 
-  -- pip install tensorflow flwr pandas numpy scikit-learn matplotlib   
+- 🧠 **TensorFlow** – For building and training neural network models during federated and centralized training epochs.
+- 🐼 **Pandas** – For handling, processing, and cleaning the dataset before training.
 
-  
+### 🛠️ Installation Command:  
+
+
+
+pip install tensorflow pandas
+
+
 ## GRAPHICAL MODEL
 ![image](https://github.com/user-attachments/assets/9c165d67-623f-4453-8f51-e8ccd767d24f)
 
