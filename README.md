@@ -1,9 +1,10 @@
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-yellowgreen)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-ML-brightgreen)
-![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC--BY--SA--4.0-lightgrey)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white&style=flat)
+![Flower](https://img.shields.io/badge/Flower-Federated%20Learning-orange?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white&style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=matplotlib&logoColor=white&style=flat)
 
 ## TUTORIAL COMPLETO APRENDIZADO FEDERADO IDS ### 
 
