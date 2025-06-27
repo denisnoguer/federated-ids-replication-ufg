@@ -145,16 +145,6 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
 
 
 
----
-9.1 -  Graphic Generation CODE
-
-![image](https://github.com/user-attachments/assets/39c5d161-5f21-4976-9b41-a440dde268df)
-
-
- 
-
-
-
 ## 📊 Step 9.2 – Accuracy Results from the Experiment
 
 | Scenario                                | Accuracy (%)     |
@@ -166,22 +156,18 @@ The KDD Cup 99 dataset includes various types of attacks grouped into four main 
 ---
 
 ## 🧩 9.1 – Code for Graphic Generation
+## 📊 Optional: Save Accuracy Comparison Chart
 
+You can optionally save the comparison graph (Centralized vs Federated) as an image to include in reports or presentations.
 
+Click below to show the code snippet:
 
+<details>
+<summary><strong>📌 Show Code to Save Chart as PNG</strong></summary>
 
-_______________________________________
-Adição opcional do Gráfico comparativo
-
- Se quiser salvar como imagem PNG para anexar ao relatório, adicione estas linhas no final do script, antes de plt.show():
-python
-CopiarEditar
-plt.savefig("comparacao_centralizado_federado.png", dpi=120, bbox_inches='tight')
+```python
+plt.savefig("comparative_accuracy_centralized_vs_federated.png", dpi=120, bbox_inches='tight')
 plt.show()
-
-O arquivo de comparativo que possui as fotos e dados demonstrativo neste tutorial pode ser acessadas no endereço do google drive abaixo:
-
-https://drive.google.com/file/d/175wU3g_1heesrj4pg6VRAvoO-BOopjAM/view?usp=drive_link
 
 =-=-=-=--=-==-=-=-=-==-=--==-=-=
 TUTORIAL IN ENGLISH
