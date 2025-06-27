@@ -187,6 +187,7 @@ df = pd.read_csv("dataset/__processed_kdd.csv", low_memory=False)
 ---
 
 ---
+</details>
 ## 📚 Thanks and Citing This Hard Work!
 
 If you use this repository or base your work on this implementation, please consider citing it as:
