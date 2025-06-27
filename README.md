@@ -124,26 +124,26 @@ source venv/bin/activate
 python fl_manual_avancado.py
 (NAME OF FILE IS  "fl_manual_avancado.py")
 
-## 5. LIST OF ALL ATTACKS :
-## 🛡️ Attack Categories in the Dataset
+## 5. 🛡️ Attack Categories in the Dataset
 
 The KDD Cup 99 dataset includes various types of attacks grouped into four main categories, each with specific behaviors and threats:
 
-- <span style="color:#FF5722;"><strong>DoS</strong></span> – Denial of Service  
+- 🔥 **DoS** – *Denial of Service*  
   The attacker tries to make a machine or network resource unavailable.  
   **Examples**: `smurf`, `neptune`, `teardrop`, `pod`, `land`, `back`
 
-- <span style="color:#9C27B0;"><strong>U2R</strong></span> – User to Root  
+- 🟣 **U2R** – *User to Root*  
   The attacker starts as a normal user and attempts to gain root-level access.  
   **Examples**: `buffer_overflow`, `loadmodule`, `perl`, `rootkit`
 
-- <span style="color:#03A9F4;"><strong>R2L</strong></span> – Remote to Local  
+- 🔵 **R2L** – *Remote to Local*  
   An external attacker tries to gain local user access.  
   **Examples**: `ftp_write`, `guess_passwd`, `imap`, `multihop`, `phf`, `spy`, `warezclient`, `warezmaster`
 
-- <span style="color:#4CAF50;"><strong>Probe</strong></span> – Surveillance / Scanning Activities  
+- 🟢 **Probe** – *Surveillance / Scanning Activities*  
   The attacker probes and scans networks to gather information.  
-  **Examples**: `ipsweep`, `nmap`, `portsweep`, 
+  **Examples**: `ipsweep`, `nmap`, `portsweep`, `satan`
+
 
 ## BILD THE REPLICAL CONTAINERS  
 ## 🖥️ Local Execution Path
